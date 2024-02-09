@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,bash,unity,godot,nodejs,angular,expressjs,nuxtjs"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,bash,swift,unity,unreal,godot,nodejs,angular,expressjs,nuxtjs"/>
 
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,figma,emacs,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,figma,emacs,idea,vscode,postman,linux"/>
