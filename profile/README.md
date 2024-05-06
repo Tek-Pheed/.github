@@ -1,4 +1,4 @@
-## Epitech Promo 2027
+# Epitech Promo 2027
 
 <!--
 
@@ -10,7 +10,28 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,haskell,bash,swift,unity,unreal,godot,nodejs,angular,expressjs,nuxtjs"/>
+## Technical foundation
 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,haskell,bash,linux"/>
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,figma,emacs,idea,vscode,postman,linux"/>
+## Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,emacs"/>
+
+## Introduction
+
+## Mobile
+
+<img src="https://skillicons.dev/icons?i=swift,react,angular"/>
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=js,ts,express,postman,sql"/>
+
+### DevOPS
+
+<img src="https://skillicons.dev/icons?i=linux,docker,jenkins,githubactions,ansible"/>
+
+### Cyber
+
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
