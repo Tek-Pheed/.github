@@ -20,7 +20,7 @@
 
 ## Introduction
 
-## Mobile
+### Mobile
 
 <img src="https://skillicons.dev/icons?i=swift,react,angular"/>
 
