@@ -20,13 +20,9 @@
 
 ## Introduction
 
-### Mobile
+### Mobile / Web
 
-<img src="https://skillicons.dev/icons?i=swift,react,angular"/>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=js,ts,express,postman,sql"/>
+<img src="https://skillicons.dev/icons?i=swift,react,angular,js,ts,express,postman,sql"/>
 
 ### DevOPS
 
